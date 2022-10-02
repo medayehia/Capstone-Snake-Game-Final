@@ -6,10 +6,10 @@ Udacity Capstone Cpp Project
 This Project is a modification for Udacity starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
 ## New features added to the code like
-*changing the snake speed with A key for speed up, D key for speed down and display snake
-*record and display the player score and Top score
-*added different types of food which gives different score
-*modified objects handling with dynamic memeory allocations
+* changing the snake speed with A key for speed up, D key for speed down and display snake
+* record and display the player score and Top score
+* added different types of food which gives different score
+* modified objects handling with dynamic memeory allocations
 
 
 ## Dependencies for Running Locally
