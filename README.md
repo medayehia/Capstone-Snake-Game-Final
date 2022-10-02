@@ -11,7 +11,6 @@ This Project is a modification for Udacity starter repo for the Capstone project
 * added different types of food which gives different score
 * modified objects handling with dynamic memeory allocations
 
-
 ## Dependencies for Running Locally
 * cmake >= 3.7
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
@@ -33,3 +32,19 @@ This Project is a modification for Udacity starter repo for the Capstone project
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./SnakeGame`.
+
+
+## Rubric Points covered in this project
+
+* Loops, Functions, I/O
+  * The project has a varity of control structure and functions
+  * The project reads and writes data to files
+  * The project accepts inputs from user and take actions upon these inputs
+* Object Oriented Programming
+  * The project uses Object Oriented Programming techniques
+  * Classes use appropriate access specifiers for class members
+  * Classes abstract implementation details from their interfaces
+* Memory Management
+  * The project makes use of references in function declarations
+  * The project uses smart pointers instead of raw pointers
+
