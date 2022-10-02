@@ -1,7 +1,7 @@
 # Capstone-Snake-Game-Final
 Udacity Capstone Cpp Project
 
-<img src="snake_game.gif"/>
+<img src="Capstone-Snake-Game-Final/snake_game.gif"/>
 
 This Project is a modification for Udacity starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
